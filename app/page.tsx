@@ -3,7 +3,7 @@ export default function Page() {
     <div className="min-h-screen bg-gray-50">
       {/* Header / Banner */}
       <header className="bg-blue-600 text-white py-16 text-center">
-        <h1 className="text-5xl font-bold">tatiana Your Game Servers</h1>
+        <h1 className="text-5xl font-bold">Host Your Game Servers</h1>
         <p className="mt-4 text-xl">Minecraft, Rust, Ark — fast and reliable hosting for your players.</p>
         <button className="mt-8 px-8 py-3 bg-white text-blue-600 font-semibold rounded-lg hover:bg-gray-100">
           Order Now
